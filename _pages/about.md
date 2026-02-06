@@ -18,6 +18,8 @@ Backgrounds
 Publications
 ======
 
+[Full list of publications in Google Scholar]([https://markdown.com.cn](https://scholar.google.com/citations?user=F9zKnTQAAAAJ&hl=zh-CN))
+
 Journals
 ------
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Towards Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996. (CCF A, IF: 7.5)
