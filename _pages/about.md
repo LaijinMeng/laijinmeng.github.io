@@ -18,7 +18,7 @@ Backgrounds
 Publications
 ======
 
-[Full list of publications in Google Scholar]([https://markdown.com.cn](https://scholar.google.com/citations?user=F9zKnTQAAAAJ&hl=zh-CN))
+[Full list of publications in Google Scholar](https://scholar.google.com/citations?user=F9zKnTQAAAAJ&hl=zh-CN)
 
 Journals
 ------
