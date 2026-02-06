@@ -17,6 +17,7 @@ Backgrounds
 
 Publications
 ======
+
 Journals
 ------
 
