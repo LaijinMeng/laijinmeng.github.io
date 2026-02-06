@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdotoral fellow in School of Computer Science, Shanghai Jiao Tong University, Shanghai, China. My research interests include multimedia steganography, steganalysis, information hiding, etc.
+I'm currently a postdotoral fellow in School of Computer Science, Shanghai Jiao Tong University and a member of Artificial Intelligence and Cognization Security (AICS) Lab. My research interests include multimedia steganography, steganalysis, information hiding, etc.
 
 Backgrounds
 ======
