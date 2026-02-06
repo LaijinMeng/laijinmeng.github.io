@@ -15,7 +15,7 @@ Backgrounds
 - 2020.09-2025.06: Ph.D., School of Computer Science, Shanghai Jiao Tong University.
 - 2016.09-2020.06: B.S., School of Electronic and Information Engineering, Beijing Jiaotong University.
 
-Publications
+Selected Publications
 ======
 
 [Full list of publications in Google Scholar](https://scholar.google.com/citations?user=F9zKnTQAAAAJ&hl=zh-CN)
