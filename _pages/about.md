@@ -17,15 +17,11 @@ Backgrounds
 
 Publications
 ======
+
 Journals
 ------
-- <strong>Laijin Meng</strong>Laijin Meng, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Towards Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT[J]. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996.（CCF A，IF：7.5）
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Towards Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996.(CCF A，IF：7.5)
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Tanfeng Sun. A Robust Coverless Video Steganography Based on Two-level DCT Features Against Video Attacks. IEEE Transactions on Multimedia, 2025,27: 6434-6448(SCI Q1，IF：9.7)
 
 Conferences
 ------
