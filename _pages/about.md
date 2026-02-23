@@ -50,13 +50,14 @@ Reviewer
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Circuits and Systems for Video Technology
+- Expert Systems with Applications
 - Knowledge-Based Systems
 - Signal Processing
 - Digital Signal Processing
 - Displays
 - Cluster Computing
 - Scientific Reports
-- ACM Multimedia 2025
+- ACM Multimedia 2025, 2026
 - IJCNN 2025, 2026
 - ACM Multimedia Asia 2025
 
