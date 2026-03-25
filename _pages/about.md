@@ -22,10 +22,10 @@ Selected Publications
 
 Journals
 ------
-- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Towards Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996. (CCF A, IF: 7.5)
-- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Tanfeng Sun. A Robust Coverless Video Steganography Based on Two-level DCT Features Against Video Attacks. IEEE Transactions on Multimedia, 2025,27: 6434-6448. (Q1-Top, IF: 9.7)
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Toward Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996. (CCF A, IF: 7.5)
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Tanfeng Sun. A Robust Coverless Video Steganography Based on Two-level DCT Features Against Video Attacks. IEEE Transactions on Multimedia, 2025,27: 6434-6448. (CCF A, Q1-Top, IF: 9.7)
 - <strong>Laijin Meng</strong>, Fan Li, Xinghao Jiang, Qiang Xu. A Universal Framework for Improving the Robustness of Coverless Image Steganography Based on Image Restoration. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(1): 922-937. (Q1-Top, IF: 11.1)
-- <strong>Laijin Meng</strong>, Xinghao Jiang, Tanfeng Sun, Zeyu Zhao, Qiang Xu. A Robust Coverless Video Steganography Based on the Similarity of Inter-Frames. IEEE Transactions on Multimedia, 2024, 26: 5996-6011. (Q1-Top, IF: 8.4)
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Tanfeng Sun, Zeyu Zhao, Qiang Xu. A Robust Coverless Video Steganography Based on the Similarity of Inter-Frames. IEEE Transactions on Multimedia, 2024, 26: 5996-6011. (CCF A, Q1-Top, IF: 8.4)
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Zhenzhen Zhang, Zhaohong Li, Tanfeng Sun. A Robust Coverless Image Steganography Based on an End-to-End Hash Generation Model. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(7): 3542-3558. (Q1-Top, IF: 8.3)
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Tanfeng Sun. A review of coverless steganography. Neurocomputing, 2024, 566: 126945. (Q2-Top, IF: 5.5)
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Zhenzhen Zhang, Zhaohong Li, Tanfeng Sun. A robust coverless video steganography based on maximum DC coefficients against video attacks. Multimedia Tools and Applications, 2024, 83(5): 13427-13461. (CCF C, IF: 3.0)
