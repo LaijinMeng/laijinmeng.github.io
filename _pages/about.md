@@ -53,6 +53,8 @@ Reviewer
 - Expert Systems with Applications
 - Knowledge-Based Systems
 - Signal Processing
+- Applied Soft Computing
+- Pattern Recognition Letter
 - Digital Signal Processing
 - Displays
 - Cluster Computing
