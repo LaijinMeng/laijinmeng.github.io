@@ -22,7 +22,7 @@ Selected Publications
 
 Journals
 ------
-- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Toward Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996. (CCF A, IF: 7.5)[[PDF](https://ieeexplore.ieee.org/abstract/document/11176136)]
+- <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi, Shijie Hou, Tanfeng Sun. Toward Resisting Black-box Attacks: A Robust Coverless Image Steganography Based on Hierarchical CID and Dual SIFT. IEEE Transactions on Dependable and Secure Computing, 2026, 23(1): 981-996. (CCF A, IF: 7.5)([PDF](https://ieeexplore.ieee.org/abstract/document/11176136))
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Tanfeng Sun. A Robust Coverless Video Steganography Based on Two-level DCT Features Against Video Attacks. IEEE Transactions on Multimedia, 2025,27: 6434-6448. (CCF A, Q1-Top, IF: 9.7)
 - <strong>Laijin Meng</strong>, Fan Li, Xinghao Jiang, Qiang Xu. A Universal Framework for Improving the Robustness of Coverless Image Steganography Based on Image Restoration. IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(1): 922-937. (Q1-Top, IF: 11.1)
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Tanfeng Sun, Zeyu Zhao, Qiang Xu. A Robust Coverless Video Steganography Based on the Similarity of Inter-Frames. IEEE Transactions on Multimedia, 2024, 26: 5996-6011. (CCF A, Q1-Top, IF: 8.4)
