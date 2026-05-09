@@ -48,6 +48,7 @@ Academic service
 
 Reviewer
 ------
+- IEEE Transactions on Information Forensics & Security
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Circuits and Systems for Video Technology
