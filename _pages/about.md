@@ -52,6 +52,7 @@ Reviewer
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Circuits and Systems for Video Technology
+- Pattern Recognition
 - Expert Systems with Applications
 - Knowledge-Based Systems
 - Signal Processing
