@@ -58,6 +58,7 @@ Reviewer
 - Signal Processing
 - Applied Soft Computing
 - Pattern Recognition Letter
+- Journal of Information Security and Applications
 - Digital Signal Processing
 - Displays
 - Cluster Computing
