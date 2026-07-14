@@ -57,16 +57,12 @@ Reviewer
 - Expert Systems with Applications
 - Knowledge-Based Systems
 - Signal Processing
-- Applied Soft Computing
 - Pattern Recognition Letter
 - Journal of Information Security and Applications
-- Digital Signal Processing
-- Displays
-- Cluster Computing
-- Scientific Reports
 - ACM Multimedia 2025, 2026
 - IJCNN 2025, 2026
 - ACM Multimedia Asia 2025
+- etc.
 
 学会任职
 ------
