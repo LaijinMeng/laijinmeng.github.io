@@ -38,7 +38,7 @@ Journals
 
 Conferences
 ------
-- <strong>Laijin Meng</strong>, Zhongjie Mi, Qiang Xu, Xinghao Jiang, Tanfeng Sun, Shijie Hou. CIS-Guard: Preemptive Defense Algorithm for Coverless Image Steganography Based on Adversarial Perturbation. 34th ACM International Conference on Multimedia (ACM MM). 2026. (CCF A, accepted)
+- <strong>Laijin Meng</strong>, Zhongjie Mi, Qiang Xu, Xinghao Jiang, Tanfeng Sun, Shijie Hou. CIS-Guard: Preemptive Defense Algorithm for Coverless Image Steganography Based on Adversarial Perturbation. 34th ACM International Conference on Multimedia (ACM MM). 2026. (CCF A, Accepted)
 - <strong>Laijin Meng</strong>, Xinghao Jiang, Qiang Xu, Zhongjie Mi. A Coverless Image Steganography Based on a Robust Object Detection Network. International Conference on Intelligent Computing (ICIC). Singapore: Springer Nature Singapore, 2024: 343-356. (CCF C)([PDF](https://link.springer.com/chapter/10.1007/978-981-97-5603-2_28))
 
 
@@ -58,6 +58,7 @@ Reviewer
 - Pattern Recognition Letter
 - Journal of Information Security and Applications
 - ACM Multimedia 2025, 2026
+- AAAI 2026
 - IJCNN 2025, 2026
 - ACM Multimedia Asia 2025
 - etc.
