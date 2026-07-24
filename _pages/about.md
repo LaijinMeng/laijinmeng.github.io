@@ -56,6 +56,7 @@ Reviewer
 - Knowledge-Based Systems
 - Signal Processing
 - Pattern Recognition Letter
+- IEEE Signal Processing Letters
 - Journal of Information Security and Applications
 - ACM Multimedia 2025, 2026
 - AAAI 2026
